@@ -12,7 +12,7 @@ This Python script neatly formats an item name and its price to display them in 
 
 ## 📁 File
 
-- `item_price_formatter.py`: Script that formats and prints the result.
+- `data-format.py`: Script that formats and prints the result.
 
 ## 🧠 Logic
 
@@ -22,6 +22,6 @@ This Python script neatly formats an item name and its price to display them in 
 ## ▶️ How to Run
 
 ```bash
-python item_price_formatter.py
+python data-format.py
 
 
